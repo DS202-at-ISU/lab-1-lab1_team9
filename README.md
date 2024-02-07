@@ -24,6 +24,8 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
+R-studio is very difficult to use. We should use something else instead.
+
 Problems we had with:
 
 - 12.3 Clone the test GitHub repository to your computer via RStudio
