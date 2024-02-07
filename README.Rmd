@@ -27,24 +27,18 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-Problems we had with
 
--   12.1 Prerequisites
 
-    -   
-
--   12.2 Make a repo on GitHub
-
-    -   
+Problems we had with:
 
 -   12.3 Clone the test GitHub repository to your computer via RStudio
 
-    -   
+    -   We had no problems cloning the repository into RStudio.
 
 -   12.4 Make local changes, save, commit
 
-    -   
+    -   We had no problems making changes until we needed to commit and push the changes at the end.  We found out that we needed to connect our github account to git in order to commit changes.
 
 -   12.5 Push your local changes online to GitHub
 
-    -   
+    -   When pushing there were some conflicts.  We determined that the conflicts occured because we dodnt hit commit before trying to push the document.
